@@ -166,6 +166,11 @@ Ctrl + C
   * おススメ `Vanilla Javascript`
 * etc
 
+## Eclipseを使う場合には`Lombok`の設定が必要
+
+EclipseにLombokをインストールする方法（Lombokエラー対応）  
+https://web-dev.hatenablog.com/entry/eclipse/lombok  
+
 ## 次に業務アプリケーション開発を学ぼう
 https://github.com/namickey/spring-boot2-train
 
