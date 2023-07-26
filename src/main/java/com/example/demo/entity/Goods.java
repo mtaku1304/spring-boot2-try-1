@@ -3,7 +3,7 @@ package com.example.demo.entity;
 import lombok.Data;
 
 /**
- * goods★◆エンティティ
+ * goodsエンティティ
  * 
  * Tips
  * `@Data`がlombokのアノテーションで、setter,getterをclassファイルに対して自動生成してくれる。
